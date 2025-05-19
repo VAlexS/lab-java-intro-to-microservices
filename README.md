@@ -66,3 +66,5 @@ Aquí irán los repositorios que llevan a cada proyecto...
 `student-info-service` -> https://github.com/VAlexS/student-info-service.git
 
 `grades-data-service` -> https://github.com/VAlexS/grades-data-service.git
+
+`student-catalog-service` -> https://github.com/VAlexS/student-catalog-service.git
