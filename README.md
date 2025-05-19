@@ -62,3 +62,5 @@ Using Eureka and Rest Templates complete the following microservices application
 **Note:** You can add data for each service using the `CommandLineRunner` for simpler data insertion and testing.
 
 Aquí irán los repositorios que llevan a cada proyecto...
+
+Estudiante -> https://github.com/VAlexS/student-info-service.git
