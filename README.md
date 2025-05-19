@@ -63,4 +63,6 @@ Using Eureka and Rest Templates complete the following microservices application
 
 Aquí irán los repositorios que llevan a cada proyecto...
 
-Estudiante -> https://github.com/VAlexS/student-info-service.git
+`student-info-service` -> https://github.com/VAlexS/student-info-service.git
+
+`grades-data-service` -> https://github.com/VAlexS/grades-data-service.git
